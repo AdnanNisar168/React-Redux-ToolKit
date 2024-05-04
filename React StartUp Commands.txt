@@ -1,0 +1,8 @@
+--Creating a new proj--
+npx create-react-app name
+
+--npm start--
+
+If you've set up a React project and installed the necessary dependencies, including react-router-dom, you can start your development server using the npm start command. This command typically runs the start script specified in your package.json file, which starts the development server and opens your React application in a web browser.
+
+------------------
