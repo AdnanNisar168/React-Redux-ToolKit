@@ -1,1 +1,11 @@
 https://redux-toolkit.js.org/introduction/getting-started
+
+
+
+1- npm install @reduxjs/toolkit
+
+*If you need React bindings:
+
+2- npm install react-redux
+
+The package includes a precompiled ESM build that can be used as a <script type="module"> tag directly in the browser.*
